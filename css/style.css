@@ -165,7 +165,7 @@ justify-content: center;
     box-shadow: 0 0 45px 0 rgba(0, 0, 0, .15);
     cursor: pointer;
     overflow: hidden;
-    /* width: 592px; */
+ 
     margin-left: 10px;
     margin-right: 15px;
     margin-bottom: 30px;
@@ -178,7 +178,7 @@ justify-content: center;
     box-shadow: 0 0 45px 0 rgba(0, 0, 0, .15);
     cursor: pointer;
     overflow: hidden;
-    /* width: 592px; */
+  
     margin-right: 15px;
     margin-bottom: 30px;
 }
